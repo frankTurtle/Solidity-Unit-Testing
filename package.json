@@ -1,0 +1,20 @@
+{
+  "name": "solidity-unit-testing",
+  "version": "1.0.0",
+  "description": "Practicing writing Smart Contract tests 💪",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankTurtle/Solidity-Unit-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankTurtle/Solidity-Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/frankTurtle/Solidity-Unit-Testing#readme"
+}
